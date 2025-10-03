@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "234251990024",
+    "project_id": "entertainme-c5ea4",
+    "storage_bucket": "entertainme-c5ea4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234251990024:android:a0e35214f9c55ed3228dbd",
+        "android_client_info": {
+          "package_name": "com.entertain.me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234251990024-eshod6l4t6ga43r0k6ms87nkgrc6ujdh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.entertain.me",
+            "certificate_hash": "e9e22ea946df39f64705d14bdd838c5099ab0f2c"
+          }
+        },
+        {
+          "client_id": "234251990024-q230p3mghgtfntgk3cdlrbgc7uu4vmb0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.entertain.me",
+            "certificate_hash": "6ad7a8250ba89c4a6fddda8a75f80f660c8fb594"
+          }
+        },
+        {
+          "client_id": "234251990024-1p0o2bk3nm7egjhnm1qkbr1g3pjbg1o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC38Yx7a-fqVTx8Z6IGSZrpXfpqy9Tfm1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234251990024-1p0o2bk3nm7egjhnm1qkbr1g3pjbg1o8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "234251990024-0bvd6pf8jkbjerm04jhntde1f2i97n4b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.entertain.me"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

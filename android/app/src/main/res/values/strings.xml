@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Entertain Me</string>
+    <string name="facebook_app_id">993387765958837</string>
+    <string name="fb_login_protocol_scheme">fb993387765958837</string>
+    <string name="facebook_client_token">cf91f6c1f43baacd4ede675fa5cccb82</string>
+</resources>
